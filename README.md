@@ -1,9 +1,7 @@
 # Getting Started with Create React App
+ [Create React App](https://github.com/facebook/create-react-app).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-Try this compiler on 
-link : https://onlinecompilerapplication.netlify.app/
+Try this [onlinecompiler]https://onlinecompilerapplication.netlify.app/
 
 ## Available Scripts
 
